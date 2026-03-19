@@ -13,11 +13,11 @@ It transforms your world into a living masterpiece inspired by Vincent van Gogh 
 ## 📺 Demo & Gallery
 
 > [!TIP]
-| ![App Demo](./sample/demo/demo_image.png) |<BR>
+ ![App Demo](./sample/demo/demo_image.png) <BR>
 > GitHub supports direct video uploads (mp4) and images (png/jpg).
 
 | Video Conversion |<BR>
-| ![Video Demo](./sample/demo/demo_video.gif) |
+ ![Video Demo](./sample/demo/demo_video.gif) 
 
 ---
 
@@ -70,7 +70,7 @@ Place your trained model file in the ./models/ directory:
 python run.py
 ```
 
-📂 Project Structure
+## 📂 Project Structure
 
 ```text
 AI-Gogh-Studio/
@@ -84,10 +84,10 @@ AI-Gogh-Studio/
     └── ...               　　　　# Icons (camera, video, image, save, close)
 ```
 
-📜 License<BR>
+## 📜 License<BR>
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-👨‍💻 Developer<BR>
+## 👨‍💻 Developer<BR>
 Produced by Office1un<BR>
 Developed by Shigenobu Anbo<BR>
 Location: Kazuno City, Akita, Japan
