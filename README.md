@@ -12,12 +12,17 @@ It transforms your world into a living masterpiece inspired by Vincent van Gogh 
 
 ## 📺 Demo & Gallery
 
-> [!TIP]
- ![App Demo](./sample/demo/demo_image.png) <BR>
-> GitHub supports direct video uploads (mp4) and images (png/jpg).
+<h3 style="color: #1a0454; font-weight: bold;">🔵 App Demo</h3>
 
-| Video Conversion |<BR>
- ![Video Demo](./sample/demo/demo_video.gif) 
+![App Demo](./sample/demo/demo_image.png)
+
+> 💡 GitHub supports direct video uploads (mp4) and images (png/jpg).
+
+<br>
+
+<h3 style="color: #1a0454; font-weight: bold;">🔵 Video Conversion</h3>
+
+![Video Demo](./sample/demo/demo_video.gif)
 
 ---
 
