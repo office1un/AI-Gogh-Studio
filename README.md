@@ -16,7 +16,7 @@ It transforms your world into a living masterpiece inspired by Vincent van Gogh 
 
 ![App Demo](./sample/demo/demo_image.png)
 
-> 💡 GitHub supports direct video uploads (mp4) and images (png/jpg).
+> 💡 Supported upload formats are MP4 for videos and JPG/PNG for images. Only alphabet characters are allowed in upload and storage paths.
 
 <br>
 
